@@ -30,7 +30,7 @@
                 <a class="nav-link" href="#">Delivery</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="viewguestbook.php">Guestbook</a>
+                <a class="nav-link" href="#">Order Now</a>
               </li>
             </ul>
 
